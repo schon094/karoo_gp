@@ -13,3 +13,4 @@ Be certain to read the User Guide!!!
 
 Learn more at <a href="http://kstaats.github.io/karoo_gp/">kstaats.github.io/karoo_gp/</a> ...
 
+[![](https://codescene.io/projects/3716/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/3716/jobs/latest-successful/results)
